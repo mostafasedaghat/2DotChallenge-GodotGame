@@ -4,4 +4,4 @@ A sample [game](https://mostafasedaghat.github.io/2DotChallenge-GodotGame/) made
 
 
 # Download
-	[download link](https://github.com/mostafasedaghat/2DotChallenge-GodotSourceCode)
+[download link](https://github.com/mostafasedaghat/2DotChallenge-GodotSourceCode)
